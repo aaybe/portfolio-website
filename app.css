@@ -255,7 +255,9 @@ body{
 }
 
 /* projects page */
-
+#data-exploration{
+  background-image: url(imgs/data-exploration.png);
+}
 #web-scraper{
   background-image: url(imgs/python.png);
 }
