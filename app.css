@@ -205,7 +205,7 @@ body{
   }
 
   .card-content-projects{
-    transform: translateY(72%);
+    transform: translateY(75%);
   }
 
   .card:hover .card-content,
