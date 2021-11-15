@@ -3,15 +3,8 @@
 *::after{
   box-sizing: border-box;
 }
-/* *{
-  margin: 0px;
-  padding: 0px;
-  box-sizing: border-box;
-} */
 
 body{
- /* display: grid;  */
-  /* place-items: start; */
   line-height: 1.8;
   background: #26282f;
   font-family: 'Inconsolata', monospace;
